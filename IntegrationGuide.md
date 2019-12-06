@@ -39,7 +39,7 @@ In order to use Login with Verimi you should configure FR AM in the following wa
 - Restart AM after copying the nodes
 - Create an Authentication tree called (e.g.) VerimiLogin which looks similar to:
 
-![Verimi Auth Tree](verimiLogin/example.png "Verimi Auth Tree")
+![Verimi Auth Tree](./VerimiLogin/example.png?raw=true "Verimi Auth Tree")
  
 - Configure the VerimiLogin node as follows:
 	- `Wellknowm URL`: [https://api.uat.verimi.cloud/.well-known/openid-configuration](https://api.uat.verimi.cloud/.well-known/openid-configuration) (in the current version of the node this parameter is not used, but it’s necessary to verify the signature of the JWTs).
