@@ -15,7 +15,12 @@
 -->
 # Login with Verimi README
 
-![Login with Verimi](verimiLogin/LoginwithVerimi.png "Login with Verimi")
+![Login with Verimi](verimiLogin/LoginwithVerimi.png)
+
+<!--
+https://github.com/andreposner/verimiLogin/blob/master/VerimiLogin/LoginwithVerimi.png
+https://github.com/andreposner/verimiLogin/blob/master/verimiLogin/LoginwithVerimi.png
+-->
 
 # VerimiLogin Auth Tree
 
