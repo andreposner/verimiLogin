@@ -34,7 +34,7 @@ Copy the .jar file from the ../target directory into the ../web-container/webapp
 
 **Integration with the ForgeRock platform**
 
-See complete [Integration Guide](https://github.com/andreposner/verimiLogin/IntegrationGuide.md) for all necessary steps to integrate Verimi Login with ForgeRock's Access Management.
+See complete [Integration Guide](./IntegrationGuide.md) for all necessary steps to integrate Verimi Login with ForgeRock's Access Management.
 
 The code in this repository has binary dependencies that live in the ForgeRock maven repository. Maven can be configured to authenticate to this repository by following the following [ForgeRock Knowledge Base Article](https://backstage.forgerock.com/knowledge/kb/article/a74096897).
 
